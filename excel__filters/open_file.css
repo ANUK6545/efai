@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(109, 238, 255, 0.527);
+    margin: 0px;
+    padding: 0px;
+     font-size: 25px; 
+}
+
+#tester{
+    text-align: center;
+    border: 2px;
+        /* border-color: rgb(30, 210, 186); */
+    /* margin-top: 50px; */
+    background-color: aliceblue;
+    /* width: 300px; */
+    /* border-radius: 20px; */
+}
+
+tr:hover {background-color:rgb(219, 211, 211);}
+
+#col_names{background-color:rgb(81, 238, 212);}
+#col_names:hover{background-color:rgb(76, 204, 236);}
+
+.card{
+    margin-top: 40px;
+    border-top:  10px solid rgb(253, 115, 235)!important;
+    /* border-bottom:  10px solid rgb(253, 115, 235)!important; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 800px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+}
+
+
+#export_btn{
+   margin-bottom: 3px;
+}
